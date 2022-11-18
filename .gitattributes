@@ -1,1 +1,1 @@
-newfile.txt filter=git-crypt diff=git-crypt
+newfile.txt test.txt filter=git-crypt diff=git-crypt
